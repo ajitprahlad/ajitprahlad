@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Natural Language Processing and Deep Learning**
 
-- 👯 I’m looking to collaborate on **AI/DL/ML Projects**
-
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ajitprahlad/)
 
 - 📫 How to reach me **ajitprahlad@gmail.com**
